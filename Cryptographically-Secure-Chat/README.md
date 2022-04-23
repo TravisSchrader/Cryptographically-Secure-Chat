@@ -1,2 +1,0 @@
-# csci597_secureChat
-
